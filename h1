@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <title>ПАСХА</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <header>
+            <img src="https://img.freepik.com/free-vector/easter-holiday-watercolor-and-big-egg_52683-34160.jpg?w=2000" width="100px" height="70px">
+            <a class="button" href="">рецепты</a>
+        </header>
+        <nav>
+            <a class="nav-link" href="">история</a>
+        </nav>
+        <main>
+            <h1></h1>
+            <section class="info">
+                <article>
+                    <h2>история</h2>
+                    <img src="https://valenteshop.ru/uploads/882cab52c533ede7433666246c5e4519.jpg" width="400px" height="300px"/>
+                </article>
+                <article>
